@@ -1,0 +1,5 @@
+mutagen
+python-telegram-bot
+moviepy
+faker
+pillow
