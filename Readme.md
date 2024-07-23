@@ -1,4 +1,4 @@
-# 🤖 Media Processing Bot
+# 🤖 Media Processing App for Telegram
 
 This Telegram bot automates the processing and modification of images and videos. Key features include:
 
